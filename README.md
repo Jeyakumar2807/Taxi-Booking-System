@@ -31,7 +31,9 @@ Pickup Point: A
 Drop Point: D
 Pickup Time: 9
 
+
 ## 📤 Sample Output
 Taxi Allocated Successfully!
 Taxi ID: 2
 Fare: ₹250
+
